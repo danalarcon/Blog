@@ -3,21 +3,16 @@
     {
       "name": "facebook",
       "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/"
+      "link": "https://web.facebook.com/elblogdedaniel"
     },
     {
-      "name": "twitter",
+      "name": "X",
       "icon": "fab fa-twitter",
-      "link": "https://twitter.com/"
+      "link": "https://twitter.com/_DanAlarcon_"
     },
     {
-      "name": "github",
-      "icon": "fab fa-github",
-      "link": "https://www.github.com/"
-    },
-    {
-      "name": "linkedin",
-      "icon": "fab fa-linkedin",
+      "name": "Instagram",
+      "icon": "fab fa-instagram",
       "link": "https://www.linkedin.com/"
     }
   ]
