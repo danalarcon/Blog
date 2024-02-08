@@ -1,33 +1,52 @@
 ---
-title: "Privacy"
+title: "Privacidad"
 # meta title
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "Politicas de privacidad del sitio web"
 # save as draft
 draft: false
 ---
 
-#### Responsibility of Contributors
+# Política de Privacidad
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+## Información Personal
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+En Danalarcon, respetamos y valoramos la privacidad de nuestros usuarios. Esta política de privacidad describe cómo recopilamos, utilizamos y protegemos la información personal que nos proporcionas.
 
-#### Gathering of Personal Information
+### Información que Recopilamos
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+- **Información de Registro**: Al registrarte en Danalarcon, recopilamos tu nombre, dirección de correo electrónico y cualquier otra información que elijas proporcionar.
+- **Datos de Acceso**: Recopilamos datos sobre tu interacción con el sitio web, como las páginas que visitas, el tiempo que pasas en ellas y tu dirección IP.
+- **Comentarios y Contenido Generado por el Usuario**: Cualquier comentario o contenido que publiques en Danalarcon se recopila y almacena.
+- **Cookies y Tecnologías Similares**: Utilizamos cookies y tecnologías similares para mejorar la experiencia del usuario y recopilar información sobre el uso del sitio web.
 
-#### Protection of Personal- Information
+### Uso de la Información
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+Utilizamos la información recopilada para los siguientes fines:
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+- Proporcionar y mantener el sitio web de Danalarcon.
+- Personalizar tu experiencia y ofrecerte contenido relevante.
+- Comprender cómo los usuarios interactúan con nuestro sitio y mejorar nuestros servicios.
+- Enviar correos electrónicos periódicos con actualizaciones, noticias y promociones relacionadas con Danalarcon.
+- Cumplir con cualquier requisito legal y proteger nuestros derechos y propiedad.
 
-#### Privacy Policy Changes
+## Compartir Información
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+No vendemos, alquilamos ni compartimos tu información personal con terceros, excepto en los siguientes casos:
+
+- Con tu consentimiento explícito.
+- Cuando sea necesario para cumplir con la ley o proteger nuestros derechos y propiedad.
+- Con proveedores de servicios externos que nos ayudan a operar nuestro sitio web y brindar servicios a nuestros usuarios (por ejemplo, procesadores de pagos, proveedores de servicios de correo electrónico).
+
+## Seguridad de la Información
+
+Tomamos medidas para proteger tu información personal contra accesos no autorizados, uso indebido o divulgación. Sin embargo, debes tener en cuenta que ninguna transmisión por Internet o método de almacenamiento electrónico es 100% seguro.
+
+## Cambios en la Política de Privacidad
+
+Podemos actualizar esta política de privacidad de vez en cuando. Te notificaremos sobre cualquier cambio significativo publicando la nueva política en esta página.
+
+
+Última actualización: 01.01.24.
+
