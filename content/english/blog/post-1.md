@@ -3,7 +3,7 @@ title: "Bienvenida"
 meta_title: ""
 description: "A comienza el viaje sin destino"
 date: 2024-02-07T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "https://res.cloudinary.com/danalarcon/image/upload/v1707400736/welcome.png"
 categories: ["Productividad", "Libros", "Deporte"]
 author: "Dan"
 tags: ["productividad", "libros", "deporte"]
