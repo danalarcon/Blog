@@ -10,12 +10,7 @@ tags: ["productividad", "AI"]
 draft: false
 ---
 
-
-#AI en WhatsApp
-
-Cómo simplifica la búsqueda de información y la toma de decisiones
-
-Desde hace mucho tiempo que llevo usando ChatGP, y ahora último Copilo (que hora todo se llamará Gemini).
+Desde hace mucho tiempo que llevo usando ChatGP [https://chat.openai.com/], y ahora último Copilo, pero ahora lo cambiaré por Gemini [https://gemini.google.com/].
 
 Pero hoy descubr´que existe un asistente de inteligencia artificial para WhatsApp y me parece fantástico, ya que muchas veces estoy en una conversación, y necesito algún "dato", ahora no tengo que salir de ahi, para solicitar esa info. 
 
