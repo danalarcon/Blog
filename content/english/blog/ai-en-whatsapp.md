@@ -16,7 +16,7 @@ Pero hoy descubrí que existe un **asistente de inteligencia artificial para Wha
 
 Además, ahora que lo pienso, realmente probaré para ocuparlo como un verdadero asistente. De momento desconozco si puede realizar alguna tarea en especifico como un "Siri". Lo vamos averiguar. 
 
-**[HeyCami](https://www.heycami.ai/es) ** Es el sitio web que te lleva directamente a un nuevo chat, y de ahi en adelante depende de ti cómo puedas sacarle provecho. 
+**[HeyCami](https://www.heycami.ai/es)** Es el sitio web que te lleva directamente a un nuevo chat, y de ahi en adelante depende de ti cómo puedas sacarle provecho. 
 
 **Importante**: Se conecta a internet, lo cual es una diferencia si no tienes ChatGP Plus. 
 
