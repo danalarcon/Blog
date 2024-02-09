@@ -3,7 +3,7 @@ title: "Leyendo más de un libro a la vez"
 meta_title: ""
 description: "Cruzar historias, conceptos, lugares, es la magia y sorpresa que generan los libros"
 date: 2023-01-13T05:00:00Z
-image: "https://uc64c21d555a3f28453678562758.previews.dropboxusercontent.com/p/thumb/ACJ7BGmpN125lTQXB13kyEuJkQM7-ebogCTR1e7Hjr_C8an4IoC_0oqlgjUqBCSy2V0jB4I7WD0dep1V2qIPG0ZHc3_OmfDN09BHGWGxCSS8k82ZXile9qP6dpfLMr6Qoj0jHTbgisUIxo9ldiwFgpCxrJ79PG7ZplFDb9F-gvAp9_dPbN5ne36gfLbwp5ILwRKmNn7vTQRJ1VcOJgALlkfJPwdUFBc77vpj9Cwo-eLR7uqMh1wEEgxzm7mgld7jlRd-76eWgwt2xaGOcxDjxfw6w2Az8pOgioKAaMr1c6QgmH2iK0m7f1He7wKagYUGmrWubC9ZjYbYTtqFatnC4-XRPnA8p-DqG1D8Xtx5pejuyCeB0uKH4s8dw8ORQHtyXyY/p.png"
+image: "https://res.cloudinary.com/danalarcon/image/upload/v1707486947/books.png"
 categories: ["Libros"]
 author: "Dan"
 tags: ["libro"]
