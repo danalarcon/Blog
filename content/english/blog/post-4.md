@@ -3,7 +3,7 @@ title: "El Ego y su Impacto en la Productividad y el Éxito: Lecciones de ´El E
 meta_title: ""
 description: "Exploraremos un tema apasionante que impacta no solo en el mundo del deporte, sino en la vida cotidiana: el ego y cómo puede influir en la productividad y el éxito en los ámbitos de tu vida"
 date: 2023-10-18T05:00:00Z
-image: "https://uc64c21d555a3f28453678562758.previews.dropboxusercontent.com/p/thumb/ACJ7BGmpN125lTQXB13kyEuJkQM7-ebogCTR1e7Hjr_C8an4IoC_0oqlgjUqBCSy2V0jB4I7WD0dep1V2qIPG0ZHc3_OmfDN09BHGWGxCSS8k82ZXile9qP6dpfLMr6Qoj0jHTbgisUIxo9ldiwFgpCxrJ79PG7ZplFDb9F-gvAp9_dPbN5ne36gfLbwp5ILwRKmNn7vTQRJ1VcOJgALlkfJPwdUFBc77vpj9Cwo-eLR7uqMh1wEEgxzm7mgld7jlRd-76eWgwt2xaGOcxDjxfw6w2Az8pOgioKAaMr1c6QgmH2iK0m7f1He7wKagYUGmrWubC9ZjYbYTtqFatnC4-XRPnA8p-DqG1D8Xtx5pejuyCeB0uKH4s8dw8ORQHtyXyY/p.png"
+image: "https://res.cloudinary.com/danalarcon/image/upload/v1707483903/whatsappia.png"
 categories: ["Libros"]
 author: "Dan"
 tags: ["libros"]
