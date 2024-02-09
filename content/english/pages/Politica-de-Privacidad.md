@@ -1,5 +1,5 @@
 ---
-title: "Privacidad"
+title: "Política de Privacidad"
 # meta title
 meta_title: ""
 # meta description
@@ -7,8 +7,6 @@ description: "Politicas de privacidad del sitio web"
 # save as draft
 draft: false
 ---
-
-# Política de Privacidad
 
 ## Información Personal
 
