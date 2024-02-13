@@ -2,7 +2,7 @@
 title: "Mi lucha con el FOBO y FOMO"
 meta_title: "Del libro FOMO de Patric J. McGinnis"
 description: "Esto se me está escapando de las manos"
-date: 2024-02-09T05:00:00Z
+date: 2024-02-13T05:00:00Z
 image: "https://res.cloudinary.com/danalarcon/image/upload/v1707483903/whatsappia.png"
 categories: ["Productividad"]
 author: "Dan"
