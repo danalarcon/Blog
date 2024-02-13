@@ -3,7 +3,7 @@ title: "Mi lucha con el FOBO y FOMO"
 meta_title: "Del libro FOMO de Patric J. McGinnis"
 description: "Esto se me está escapando de las manos"
 date: 2024-02-13T05:00:00Z
-image: "https://res.cloudinary.com/danalarcon/image/upload/v1707483903/whatsappia.png"
+image: "https://res.cloudinary.com/danalarcon/image/upload/v1707834716/Portada-FOMO.png"
 categories: ["Productividad"]
 author: "Dan"
 tags: ["productividad"]
@@ -14,12 +14,12 @@ Estoy terminando de leer un libro que tenía pendiente del año pasado, titulado
 
 El libro trata sobre el FOMO (miedo a perderse algo) y también sobre el FOBO (miedo a una mejor opción). En este último me quiero detener.
 
-{{< image src="https://res.cloudinary.com/danalarcon/image/upload/v1707830967/FOBO.jpg" caption="" alt="FOBO" height="150px" width="150px" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="https://res.cloudinary.com/danalarcon/image/upload/v1707830967/FOBO.jpg" caption="" alt="FOBO" height="400px" width="400px" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 **FOBO = Fear of Better Option**. En palabras más sencillas, se caracteriza por dos impulsos distintos y poderosos:
 
-    1. Esperar por algo mejor
-    2. Preservar el valor de la opción
+1. Esperar por algo mejor
+2. Preservar el valor de la opción
 
 Justo cuando estaba en esta parte, recordé también un artículo de **Javier Lacort**, en el que menciona que hoy muchos quedamos en la **[parálisis por análisis](https://www.xataka.com/otros/paralisis-analisis-real-asi-me-ha-afectado-asi-he-ido-superando)**
 
