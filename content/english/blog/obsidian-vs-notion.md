@@ -11,39 +11,39 @@ draft: false
 ---
 
 
-Desde el 2020 mas o menos que utilizo el método P.A.R.A para organizar mis archivos, notas, documentos, proyectos, etc. 
+Desde el 2020 mas o menos que utilizo el [método P.A.R.A](https://fortelabs.com/blog/para/) para organizar mis archivos, notas, documentos, proyectos, etc. 
 
-Cuando comencé a utilizarlo, pasé bastante tiempo configurando el método. Para ese entonces, también comencé a usar Notion como mi herramienta base. 
+Cuando comencé a utilizarlo, pasé bastante tiempo configurando el método. Para ese entonces, también comencé a usar **Notion** como mi herramienta base. 
 
-De ahí en adelante, fueron varios años que lo utilicé, pero luego conocí Roaman. Y me voló la cabeza. Lo probé super poco, porque la suscripción es cara, y no sabia si valdría la pena.
+De ahí en adelante, fueron varios años que lo utilicé, pero luego conocí [Roam Search](https://roamresearch.com/). Y me voló la cabeza. Lo probé super poco, porque la suscripción es cara, y no sabia si valdría la pena.
 
-Pero entonces, salté a Obsidian, y de ahí todo cambió. Pasé todo mi proceso de Notion a Obsidian, lo estuve utilizando por bastante tiempo también, hasta que me di cuenta que le faltaban cosas que en mi trabajo eran necesario. 
+Pero entonces, salté a **Obsidian**, y de ahí todo cambió. Pasé todo mi proceso de Notion a Obsidian, lo estuve utilizando por bastante tiempo también, hasta que me di cuenta que le faltaban cosas que en mi trabajo eran necesario. 
 
 Pero hoy vuelvo a Obsidian, pero de otra manera. 
 
-## Obsidian 
+### Obsidian 
 
 ¿Qué es Obsidian? Es un software **open source** destinado para la toma de notas. Pero, que desde esa base, se puede transformar en lo que necesites, ya que existen plugins para todo, sí para todo.
 
-Lo más interesante para mi de Obsidian es que tiene la "vista gráfica". Y muestra cómo tus notas se conectan a través de tags o palabras claves. Lo cual es la razón principal para volver.
+Lo más interesante para mi de Obsidian es que tiene la **"vista gráfica"**. Y muestra cómo tus notas se conectan a través de tags o palabras claves. Lo cual es la razón principal para volver.
 
+{{< image src="https://res.cloudinary.com/danalarcon/image/upload/v1708353913/vista-previa.png" caption="" alt="FOBO" height="400px" width="400px" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
-![Engelbart](https://res.cloudinary.com/danalarcon/image/upload/v1708353913/vista-previa.png)
 
 Estuve en una encrucijada de cómo podía usar Obsidian, sin dejar de usar Notion. Y encontré la manera.
 
 La vista gráfica de Obsidian me va a permitir, generar nuevo conocimiento, y esto lo haré de la siguiente manera:
 
 1. Voy usarlo solamente como un gestor de notas personal, nada laboral.
-2. Pasaré todo las notas de los libros que leo en digital con Readwise, y en físico, simplemente escribiendolo. 
+2. Pasaré todo las notas de los libros que leo en digital con **[Readwise](https://read.readwise.io)**, y en físico, simplemente escribiendolo. 
 3. Revisaré periodicamente la **vista gráfica** para generar nuevo conocimiento
 4. Aprenderé a usar de mejor manera el lenguaje Markdown (Esa publicación está escrita en Obsidian)
 5. Trataré de sacarle el máximo provecho en término de código abierto.
 
 
-En resumen, voy a utilizar a Obsidian como mi **segundo cerebro**. Sí, tal cual. 
+En resumen, voy a utilizar a Obsidian como mi **[segundo cerebro](https://www.buildingasecondbrain.com/)**. Sí, tal cual. 
 
-## IA Obsidian
+### IA Obsidian
 
 Una de las razones que también quiero usar Obsidian, es porque quiero sacarle el máximo provecho a la inteligencia artificial. 
 
@@ -51,7 +51,7 @@ Hay otra herramienta que se parece bastante a Obsidian se llama [reflect.app](ht
 
 La verdad es que tiene la opción de crear los "tags" de manera automática, lo cual ahorra bastante tiempo. A partir de ahi, poder ver cómo esos puntos se conectan con tus notas, y generar nuevo conocimiento. 
 
-## Conclusión
+### Conclusión
 
 Le daré un 3 meses a este proceso, y luego reportaré que tal me va.
 
