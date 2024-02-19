@@ -27,7 +27,7 @@ Pero hoy vuelvo a Obsidian, pero de otra manera.
 
 Lo más interesante para mi de Obsidian es que tiene la **"vista gráfica"**. Y muestra cómo tus notas se conectan a través de tags o palabras claves. Lo cual es la razón principal para volver.
 
-{{< image src="https://res.cloudinary.com/danalarcon/image/upload/v1708353913/vista-previa.png" caption="" alt="FOBO" height="400px" width="400px" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="https://res.cloudinary.com/danalarcon/image/upload/v1708353913/vista-previa.png" caption="" alt="FOBO" height="600px" width="600px" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 
 Estuve en una encrucijada de cómo podía usar Obsidian, sin dejar de usar Notion. Y encontré la manera.
