@@ -3,7 +3,7 @@
 title: "About Framework Thinking"
 meta_title: "About Framework Thinking"
 description: "Aprende distintas maneras de abordar cada situación"
-date: 2024-02-20T05:00:00Z
+date: 2024-04-01T05:00:00Z
 image: "https://res.cloudinary.com/danalarcon/image/upload/v1712010986/Framework-thinking_ditj1s.png"
 categories: ["Libros"]
 author: "Dan"
