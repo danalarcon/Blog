@@ -12,7 +12,7 @@ draft: false
 
 ---
 
-DPor esas "ñoñerias de la vida" me encontré con un video de [Vicky Zhao](https://www.youtube.com/@VickyZhaoBEEAMP), quien hablaba sobre los Framework Thinking. Inmediato llamó mi anteción, ya que eso se estaba conectando con otros tópicos que estaba leyendo.
+Por esas "ñoñerias de la vida" me encontré con un video de [Vicky Zhao](https://www.youtube.com/@VickyZhaoBEEAMP), quien hablaba sobre los Framework Thinking. Inmediato llamó mi atención, ya que eso se estaba conectando con otros tópicos que estaba leyendo.
 
 De ahí, entré en un bucle sobre cómo funciona un Framework, y descubrí que por mi trabajo, llevaba utilizando hace años, pero no en mi vida personal como lo es el Design Thinking.
 
